@@ -1,3 +1,3 @@
-# akartynnik.github.io
-Aliaksei Kartynnik | Minsk, Belarus | ASP.NET Developer | personal page
+# KNovykova.github.io
+Novykova Kateryna | Kiev, Ukraine | Project Manager | personal page
  
